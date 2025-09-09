@@ -49,7 +49,7 @@ This subset contains a small selection of clips and annotations..
 
 ## Repository Structure
 ```
-ipid-subset/
+ipid/
 ├── clips/
 │ ├── clip_002.mp4
 │ ├── clip_010.mp4
