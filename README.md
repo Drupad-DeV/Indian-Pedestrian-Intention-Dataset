@@ -89,7 +89,7 @@ for frame_id in range(int(cap.get(cv2.CAP_PROP_FRAME_COUNT))):
 ```
 
 ## License
-This subset is released under the MIT License. See LICENSE for details.
+This dataset is released under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions, suggestions, or collaboration opportunities:
