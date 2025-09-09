@@ -10,6 +10,8 @@ This repository provides a **subset** of the Indian Pedestrian Intention Dataset
 
 The **Indian Pedestrian Intention Dataset** dataset addresses a critical gap in autonomous vehicle research by capturing realistic pedestrian behaviors in **unstructured Indian traffic environments**, including jaywalking, hesitation, and sudden crossings. Unlike datasets from regulated urban settings, IPID focuses on chaotic, complex scenarios relevant to emerging markets.  
 
+![Dataset Sample Collage](dataset_collage.png)
+
 This subset contains a small selection of clips and annotations..  
 *(Note: This is not the full dataset, which includes 240 clips and ~43 minutes of content.)*
 ---
@@ -92,7 +94,21 @@ This subset is released under the MIT License. See LICENSE for details.
 ## Contact
 For questions, suggestions, or collaboration opportunities:
 - **Email**: drupaddev.p@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/Drupad-DeV/Indian-Pedestrian-Intention-Dataset/issues) 
+- **Issues**: [GitHub Issues](https://github.com/Drupad-DeV/Indian-Pedestrian-Intention-Dataset/issues)
+
+## Authors & Contributors
+
+- **[Arun R](https://github.com/ArunR1408)** 
+- **[Harin BS](https://github.com/harinbs)** 
+- **[Jishnu B Thilak](https://github.com/jishnuthilak)** 
+- **[Drupad Dev P](https://github.com/Drupad-DeV)** 
+
+## Related Work
+
+- [JAAD Dataset](https://github.com/ykotseruba/JAAD)
+- [PIE Dataset](https://github.com/aras62/PIE)
+- [CVAT Annotation Tool](https://github.com/openvinotoolkit/cvat)
+
 
 ## Acknowledgment
 This subset is derived from the full Indian Pedestrian Intention Dataset (IPID), collected in Trivandrum, Kerala, India.
