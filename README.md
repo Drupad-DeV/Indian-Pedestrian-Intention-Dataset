@@ -1,5 +1,9 @@
 # Indian Pedestrian Intention Dataset – Subset (IPID-Subset)
 
+![Dataset Sample Collage](https://i.ibb.co/Q3qmS1jx/dataset-collage.png)
+
+---
+
 ## Overview
 This repository provides a **subset** of the Indian Pedestrian Intention Dataset (IPID), prepared specifically for reviewer access.  
 The subset includes selected video clips and annotations covering representative pedestrian behaviors in unstructured Indian traffic scenarios.
